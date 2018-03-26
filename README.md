@@ -21,5 +21,9 @@ The exam has two main categories of tasks that involve:
 # Sample Certification Info
 https://github.com/bushnoh/hdpcd_spark
 
+=====================================================================================================================
+# HDPCD-Certification
+https://github.com/rashidaligee/HDPCD-Certification/
+
 
 
